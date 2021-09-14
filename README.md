@@ -11,9 +11,8 @@ Hey there, I am an undergraduate student, currently pursuing bachelor's degree i
 - 🔭 **Creating** myself.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking to **collaborate on open-source projects**.
-- 📫 **How to reach me:** vaishnavi02sharma@gmail.com.
 - 😄 Pronouns: **She/Her** :raising_hand:.
-- ⚡ **Fun fact:** In my free time, i like to play ukulele  <span>**kavai**</span> :guitar:.
+- ⚡ **Fun fact:** In my free time, i like to play ukulele- <span>**kavai**</span> :guitar:.
 
 #### Technologies and Tools
 
