@@ -1,8 +1,8 @@
 ## Hi, I'm Vaishnavi Sharma <img src="https://github.com/kaito-bot/kaito-bot/blob/master/.github/images/wave-hello.gif" width= 30px>
 
-<p>
+
 Hey there, I am an undergraduate student, currently pursuing bachelor's degree in Computer Science. I love working with web technologies, creating web applications and web designs with **meraki** :sparkles:.
-</p>
+
 
 
 #### :mailbox: **Reach Me Out**
