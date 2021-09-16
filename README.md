@@ -21,4 +21,4 @@ Hey there, I am an undergraduate student, currently pursuing bachelor's degree i
  [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA610)](#) [![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=for-the-badge&labelColor=ff914c&logo=MYSQL&logoColor)](#)
 
 ### Github Stats
-[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaito-bot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaito-bot&theme=tokyonight)]
