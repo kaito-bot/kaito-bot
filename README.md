@@ -1,7 +1,7 @@
 ## Hi, I'm Vaishnavi Sharma
 
 
-Hey there, I am an undergraduate student, currently pursuing bachelor's degree in Computer Science. I love working with web technologies, creating web applications and web designs with **meraki** :sparkles:.
+Hey there, I am a recent graduate with a bachelor's degree in Computer Science. I love working with web technologies, creating web applications and web designs with **meraki** :sparkles:.
 
 
 
